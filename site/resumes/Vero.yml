@@ -1,0 +1,69 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+    # I am looking to transition into the tech world. I have always been fascinated by computers and programming. After a couple of years in the accounting industry, I decided it was time to 
+    #   make the jump and dive into programming full-time.
+#
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Verónica
+    last_name: Rodríguez
+    motto: University Student
+    avatar: ~
+    summary: |
+        I am looking to transition into the tech world. I have always been fascinated by computers and programming. After a couple of years in the chemical industry, I decided it was time to make the jump and dive into programming. Interested in Software Development, using Java, Python, Javascript and other tools. 
+         
+
+    # Sidebar links
+    email: verorodriguezruiz21@gmail.com
+    phone: 67 00 86 562 
+    website: ~
+    linkedin: linkedin.com/in/alejandro-novellino-70954817b
+    github: Vero2112
+    twitter: ~
+    stack-overflow: ~
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Medium
+
+    interests:
+      - item: Web Development
+      - item: App Development
+      - item: Machine Learning
+
+education:
+    - degree: Bachelor of Chemistry
+      university: La Salle La Colina
+      time: 2012 - 2017
+
+experiences:
+
+    - role: Chemistry
+      time: 2018 - 2022
+      company: BCN Peptides
+      # optional
+projects:
+
+skills:
+    toolset:
+      - name: Python 
+        level: ~
+
+      - name: Java
+        level: ~
+
+      - name: Javascript
+        level: ~
+
+      - name: HTML5 & CSS
+        level: ~
+
+      - name: Bootstrap
+        level: ~
